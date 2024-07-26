@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2024/07/26/BCI-EEG-Stimulates/"/>
+    <url>/2024/07/26/BCI-EEG-Stimulates/</url>
+    
+    <content type="html"><![CDATA[<h1 id="BCI-EEG-Stimulates-研究综述"><a href="#BCI-EEG-Stimulates-研究综述" class="headerlink" title="BCI-EEG-Stimulates 研究综述"></a>BCI-EEG-Stimulates 研究综述</h1><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>脑机接口（BCI）和脑电图（EEG）刺激技术在近年来得到了广泛关注。本文将总结过去五年内国际会议中关于 BCI-EEG 刺激技术的研究方向和方法。</p><h2 id="主要研究方向"><a href="#主要研究方向" class="headerlink" title="主要研究方向"></a>主要研究方向</h2><h3 id="1-BCI-应用研究"><a href="#1-BCI-应用研究" class="headerlink" title="1. BCI 应用研究"></a>1. BCI 应用研究</h3><h4 id="1-1-临床应用"><a href="#1-1-临床应用" class="headerlink" title="1.1 临床应用"></a>1.1 临床应用</h4><p>BCI 技术在临床上的应用，如康复、辅助设备控制等。</p><h4 id="1-2-非临床应用"><a href="#1-2-非临床应用" class="headerlink" title="1.2 非临床应用"></a>1.2 非临床应用</h4><p>BCI 在娱乐、教育和增强现实等非临床领域的应用。</p><h3 id="2-EEG-信号处理方法"><a href="#2-EEG-信号处理方法" class="headerlink" title="2. EEG 信号处理方法"></a>2. EEG 信号处理方法</h3><h4 id="2-1-预处理技术"><a href="#2-1-预处理技术" class="headerlink" title="2.1 预处理技术"></a>2.1 预处理技术</h4><p>包括去噪、伪影去除等信号预处理技术。</p><h4 id="2-2-特征提取"><a href="#2-2-特征提取" class="headerlink" title="2.2 特征提取"></a>2.2 特征提取</h4><p>利用不同方法从 EEG 信号中提取特征，如时域、频域和时频域分析。</p><h4 id="2-3-特征选择"><a href="#2-3-特征选择" class="headerlink" title="2.3 特征选择"></a>2.3 特征选择</h4><p>选择最优特征以提高分类和识别的准确性。</p><h4 id="2-4-分类和识别算法"><a href="#2-4-分类和识别算法" class="headerlink" title="2.4 分类和识别算法"></a>2.4 分类和识别算法</h4><p>包括支持向量机（SVM）、随机森林、深度学习等算法在 EEG 信号分类中的应用。</p><h3 id="3-刺激模式与方法"><a href="#3-刺激模式与方法" class="headerlink" title="3. 刺激模式与方法"></a>3. 刺激模式与方法</h3><h4 id="3-1-电刺激"><a href="#3-1-电刺激" class="headerlink" title="3.1 电刺激"></a>3.1 电刺激</h4><p>利用电流刺激脑部特定区域以达到治疗或增强功能的目的。</p><h4 id="3-2-光刺激"><a href="#3-2-光刺激" class="headerlink" title="3.2 光刺激"></a>3.2 光刺激</h4><p>通过特定波长的光对脑部进行刺激，研究其效果。</p><h4 id="3-3-声刺激"><a href="#3-3-声刺激" class="headerlink" title="3.3 声刺激"></a>3.3 声刺激</h4><p>使用声音刺激进行脑部功能的调节和研究。</p><h2 id="方法学进展"><a href="#方法学进展" class="headerlink" title="方法学进展"></a>方法学进展</h2><h3 id="1-深度学习方法"><a href="#1-深度学习方法" class="headerlink" title="1. 深度学习方法"></a>1. 深度学习方法</h3><p>利用深度学习模型进行 EEG 信号的特征提取和分类，特别是卷积神经网络（CNN）和长短期记忆网络（LSTM）的应用。</p><h3 id="2-多模态融合"><a href="#2-多模态融合" class="headerlink" title="2. 多模态融合"></a>2. 多模态融合</h3><p>将 EEG 信号与其他类型的生物信号（如 fNIRS、MEG）结合，进行多模态分析和研究。</p><h3 id="3-实时处理系统"><a href="#3-实时处理系统" class="headerlink" title="3. 实时处理系统"></a>3. 实时处理系统</h3><p>开发高效的实时 EEG 信号处理系统，以实现快速响应和在线分析。</p><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p>过去五年，BCI 和 EEG 刺激技术在方法学和应用领域都取得了显著进展。未来的研究应进一步关注多模态融合和实时处理技术，以推动 BCI 技术的发展和应用。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/07/26/hello-world/"/>
     <url>/2024/07/26/hello-world/</url>
